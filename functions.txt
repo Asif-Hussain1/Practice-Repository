@@ -1,1 +1,2 @@
-Functions implemented in version 2
+Functions implemented in version 3
+
